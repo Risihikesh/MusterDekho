@@ -76,5 +76,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### ScreenShots
 
+![Capture](https://github.com/Risihikesh/MusterDekho/assets/78144182/c751dc11-3576-4b11-90f0-e92c7097f95f)
+![Capture2](https://github.com/Risihikesh/MusterDekho/assets/78144182/ae2dc859-b08b-47a8-ace6-416fa6e3f19c)
+![Capture3](https://github.com/Risihikesh/MusterDekho/assets/78144182/987e257f-8bca-40af-9d6b-6aedbdcf0e9d)
+
 
 
