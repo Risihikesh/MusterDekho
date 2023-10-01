@@ -27,7 +27,7 @@ export const useCollection = (collection, _query, _orderBy) => {
           results.push({ ...doc.data(), id: doc.id });
         });
 
-        // update state
+        // update state of component
         setDocuments(results);
         setError(null);
       },
